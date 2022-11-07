@@ -1,0 +1,12 @@
+D:\projects\C#\lw7\library\bin\Debug\net6.0\library.deps.json
+D:\projects\C#\lw7\library\bin\Debug\net6.0\library.dll
+D:\projects\C#\lw7\library\bin\Debug\net6.0\library.pdb
+D:\projects\C#\lw7\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+D:\projects\C#\lw7\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\lw7\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+D:\projects\C#\lw7\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+D:\projects\C#\lw7\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+D:\projects\C#\lw7\library\obj\Debug\net6.0\library.dll
+D:\projects\C#\lw7\library\obj\Debug\net6.0\refint\library.dll
+D:\projects\C#\lw7\library\obj\Debug\net6.0\library.pdb
+D:\projects\C#\lw7\library\obj\Debug\net6.0\ref\library.dll

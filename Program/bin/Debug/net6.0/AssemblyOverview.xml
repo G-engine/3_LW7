@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?><string>
+Assembly: library, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Defined Types:
+
+class Animal : System.Object
+
+Comment: base class for all animals
+Methods:
+Void Deconstruct ()
+eClassificationAnimal GetClassificationAnimal ()
+virtual eFavouriteFood GetFavouriteFood ()
+virtual String SayHello ()
+Type GetType ()
+virtual String ToString ()
+virtual Boolean Equals ()
+virtual Int32 GetHashCode ()
+
+class Cow : library.Animal
+
+Comment: cow is herbivorous animal
+Methods:
+virtual eFavouriteFood GetFavouriteFood ()
+virtual String SayHello ()
+Void Deconstruct ()
+eClassificationAnimal GetClassificationAnimal ()
+Type GetType ()
+virtual String ToString ()
+virtual Boolean Equals ()
+virtual Int32 GetHashCode ()
+
+class Lion : library.Animal
+
+Comment: lion is carnivore animal
+Methods:
+virtual eFavouriteFood GetFavouriteFood ()
+virtual String SayHello ()
+Void Deconstruct ()
+eClassificationAnimal GetClassificationAnimal ()
+Type GetType ()
+virtual String ToString ()
+virtual Boolean Equals ()
+virtual Int32 GetHashCode ()
+
+class Pig : library.Animal
+
+Comment: pig is herbivorous animal
+Methods:
+virtual eFavouriteFood GetFavouriteFood ()
+virtual String SayHello ()
+Void Deconstruct ()
+eClassificationAnimal GetClassificationAnimal ()
+Type GetType ()
+virtual String ToString ()
+virtual Boolean Equals ()
+virtual Int32 GetHashCode ()
+
+class MyAttribute : System.Attribute
+Methods:
+String get_Comment ()
+virtual Boolean Equals ()
+virtual Int32 GetHashCode ()
+virtual Object get_TypeId ()
+virtual Boolean Match ()
+virtual Boolean IsDefaultAttribute ()
+Type GetType ()
+virtual String ToString ()</string>
